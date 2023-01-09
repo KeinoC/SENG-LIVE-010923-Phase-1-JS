@@ -74,6 +74,8 @@ const inventory = [
 
 // Start here!
 
+console.log('formatPrice(10)', formatPrice(10));
+const book = inventory[0];
 
 // ✅ create a formatPrice(price) function that accepts a price (number) as an argument and returns the price formatted as a string.
 // formatPrice(10) => '$10.00'
